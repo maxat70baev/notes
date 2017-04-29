@@ -1,52 +1,52 @@
 # Learn JavaScript/Frontend
 
 ## Beginner
-- https://www.codecademy.com/learn/learn-javascript
+- [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
 - [Learn JavaScript in Y minutes](https://learnxinyminutes.com/docs/javascript/)
-- https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-- http://eloquentjavascript.net/
-- http://speakingjs.com/es5/index.html
-- https://leanpub.com/understandinges6/read/
-- https://github.com/thejameskyle/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js
-- https://auth0.com/blog/glossary-of-modern-javascript-concepts/
-- http://play.elevatorsaga.com/
-- https://github.com/olistic/warriorjs
-- https://scrimba.com/
-- https://egghead.io/courses/understand-the-basics-of-http
-- http://kosamari.com/notes/the-promise-of-a-burger-party
-- https://bitsofco.de/asynchronous-functions-101/
-- https://bevacqua.github.io/promisees/
-- https://internetingishard.com/
-- http://cssreference.io/
-- http://htmlreference.io/
+- [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Speaking JavaScript](http://speakingjs.com/es5/index.html)
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
+- [itsy-bitsy-data-structures](https://github.com/thejameskyle/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js)
+- [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
+- [Elevator Saga](http://play.elevatorsaga.com/)
+- [WarriorJS](https://github.com/olistic/warriorjs)
+- [Scrimba](https://scrimba.com/)
+- [Understand the Basics of HTTP](https://egghead.io/courses/understand-the-basics-of-http)
+- [The Promise of a Burger Party](http://kosamari.com/notes/the-promise-of-a-burger-party)
+- [Asynchronous Functions 101](https://bitsofco.de/asynchronous-functions-101/)
+- [Promisees](https://bevacqua.github.io/promisees/)
+- [interneting is hard](https://internetingishard.com/)
+- [CSS Reference](http://cssreference.io/)
+- [HTML Reference](http://htmlreference.io/)
 
 ## Intermediate/Advanced
 - [You don't know JS book series by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
-- https://github.com/getify/Functional-Light-JS
-- https://drboolean.gitbooks.io/mostly-adequate-guide
-- https://github.com/hemanth/functional-programming-jargon
-- https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript
-- https://github.com/ryanmcdermott/clean-code-javascript
-- http://exploringjs.com/es6/
-- https://leanpub.com/javascriptallongesix/read
-- https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
-- https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-- https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-- https://github.com/kennymkchan/interview-questions-in-javascript
-- https://github.com/FelipeBB/Design-Patterns-JS/blob/master/docs.md
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+- [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Exploring ES6](http://exploringjs.com/es6/)
+- [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+- [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+- [The Two Pillars of JavaScript. Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+- [The Two Pillars of JavaScript . Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+- [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)
+- [Design Patterns JS](https://github.com/FelipeBB/Design-Patterns-JS/blob/master/docs.md)
 
 ## Practical
-- https://github.com/verekia/js-stack-from-scratch
-- https://ponyfoo.com/books/practical-es6/chapters#toc
-- https://github.com/rstacruz/webpack-tricks
-- http://artsy.github.io/blog/2016/11/14/JS-Glossary/
-- https://github.com/teesloane/Auth-Boss
-- https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/
-- https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool
+- [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+- [Practical ES6](https://ponyfoo.com/books/practical-es6/chapters#toc)
+- [Webpack tricks](https://github.com/rstacruz/webpack-tricks)
+- [JavaScript Gloassry for 2017](http://artsy.github.io/blog/2016/11/14/JS-Glossary/)
+- [Auth-Boss](https://github.com/teesloane/Auth-Boss)
+- [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
+- [How to Use npm Scripts as Your Build Tool](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
 
 ## IDE
-- http://jsbin.com/?html,css,js,output
-- https://www.webpackbin.com/
-- http://codepen.io/
-- https://matthiasak.github.io/arbiter-frame
-- https://sandpitjs.com/
+- [JS Bin](http://jsbin.com/?html,css,js,output)
+- [WebpackBin](https://www.webpackbin.com/)
+- [CodePen](http://codepen.io/)
+- [Arbiter](https://matthiasak.github.io/arbiter-frame)
+- [Sandpit](https://sandpitjs.com/)
